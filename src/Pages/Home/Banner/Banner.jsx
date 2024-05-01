@@ -18,7 +18,7 @@ const Banner = () => {
             <a href="#slide6" className="btn btn-circle mr-5">
               ❮
             </a>
-            <a href="#slide2" className="btn btn-circle text-primary">
+            <a href="#slide2" className="btn btn-circle bg-primary">
               ❯
             </a>
           </div>
@@ -32,7 +32,7 @@ const Banner = () => {
             <a href="#slide1" className="btn btn-circle mr-5">
               ❮
             </a>
-            <a href="#slide3" className="btn btn-circle text-primary">
+            <a href="#slide3" className="btn btn-circle bg-primary">
               ❯
             </a>
           </div>
@@ -46,7 +46,7 @@ const Banner = () => {
             <a href="#slide2" className="btn btn-circle mr-5">
               ❮
             </a>
-            <a href="#slide4" className="btn btn-circle text-primary">
+            <a href="#slide4" className="btn btn-circle bg-primary">
               ❯
             </a>
           </div>
@@ -60,7 +60,7 @@ const Banner = () => {
             <a href="#slide3" className="btn btn-circle mr-5">
               ❮
             </a>
-            <a href="#slide5" className="btn btn-circle text-primary">
+            <a href="#slide5" className="btn btn-circle bg-primary">
               ❯
             </a>
           </div>
@@ -74,7 +74,7 @@ const Banner = () => {
             <a href="#slide4" className="btn btn-circle mr-5">
               ❮
             </a>
-            <a href="#slide6" className="btn btn-circle text-primary">
+            <a href="#slide6" className="btn btn-circle bg-primary">
               ❯
             </a>
           </div>
@@ -88,7 +88,7 @@ const Banner = () => {
             <a href="#slide5" className="btn btn-circle mr-5">
               ❮
             </a>
-            <a href="#slide1" className="btn btn-circle text-primary">
+            <a href="#slide1" className="btn btn-circle bg-primary">
               ❯
             </a>
           </div>
